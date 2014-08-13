@@ -15,10 +15,10 @@ pfsense_howto
    
 (with Windows cmd.exe)
 
-`physdiskwrite [-u] [-d driveno] <image-file>` 
+>`physdiskwrite [-u] [-d driveno] <image-file>` 
 
 for example
-`physdiskwrite -u pfSense-1.2.3-RELEASE-xg-nanobsd.img.gz` 
+>`physdiskwrite -u pfSense-1.2.3-RELEASE-xg-nanobsd.img.gz` 
 
 and then choose 0..n option
 
