@@ -1,7 +1,8 @@
 pfsense_howto
 =============
 
-####Configuration and all that bunch of stuff.####
+####1. USB pre-install configuration and all that bunch of stuff.####
+___
 
 
 
